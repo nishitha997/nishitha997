@@ -2,7 +2,7 @@
 - 👀 I’m interested in software testing and software developing 
 - 🌱 I’m currently learning software quality assuarance
 - 💞️ I’m looking to collaborate on software development projects
-- 📫 How to reach me ...
+- 📫 How to reach me nishitha997@gmail.com
 
 <!---
 nishitha997/nishitha997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
